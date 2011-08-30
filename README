@@ -1,0 +1,3 @@
+README
+======
+This sample script will display the IATA airport codes, which have same names as PHP internal function matches "/^[a-z]{3}$/".
