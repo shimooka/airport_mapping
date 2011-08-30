@@ -1,3 +1,23 @@
 README
 ======
 This sample script will display the IATA airport codes, which have same names as PHP internal function matches "/^[a-z]{3}$/".
+
+The result is following:
+
+$ php airports.php
+CHR : Chateauroux airport at Chateauroux, FRANCE
+ORD : O'Hare International airport at Chicago, UNITED STATES
+ABS : Abu Simbel airport at Abu Simbel, EGYPT
+SIN : Changi airport at Singapore, SINGAPORE
+COS : Colorado Springs Metropolitan Area airport at Colorado Springs, UNITED STATES
+TAN : Tangalooma airport at Tangalooma, NORWAY
+POW : Portoroz airport at Portoroz, SLOVENIA
+EXP : ** not defined **
+LOG : Longview airport at Longview, UNITED STATES
+DIR : Aba Tenna D Yilma airport at Dire Dawa, ETHIOPIA
+END : Vance AFB airport at Enid, UNITED STATES
+KEY : Kericho airport at Kericho, KENYA
+MIN : Minnipa airport at Minnipa, AUSTRALIA
+MAX : Matam airport at Matam, SENEGAL
+POS : Piarco airport at Port Of Spain, TRINIDAD AND TOBAGO
+$ 
